@@ -39,11 +39,11 @@
 <table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=ashishwankhade&amp;show_icons=true&amp;theme=tokyonight" alt="Ashish's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishwankhade&amp;theme=tokyonight" alt="Ashish GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishwankhade&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=ashishwankhade&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishwankhade&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="ashishwankhhade"> </p>
-<p>
   <a href="mailto:wankhadeashish1951@gmail.com" target="_blank"><img height="28" src="https://img.shields.io/badge/gmail-c14438?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ashishwankhade01/" target="_blank"> <img height="28" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white"></a>
   <a href="https://twitter.com/" target="_blank"><img height="28" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white"></a>
   <a href="https://dev.to/" target="_blank"><img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&amp;style=for-the-badge&amp;logo=dev-dot-to&amp;logoColor=white"></a>
   <a href="https://instagram.com/" target="_blank"><img height="28" src="https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white"></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishwankhade&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="ashishwankhhade"> </p>
+<p>
 </p>
