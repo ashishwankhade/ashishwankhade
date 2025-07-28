@@ -39,7 +39,6 @@
 <br>
 <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
 <table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=ashishwankhade&amp;show_icons=true&amp;theme=tokyonight" alt="Ashish's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishwankhade&amp;theme=tokyonight" alt="Ashish GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishwankhade&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=ashishwankhade&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
-<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishwankhade&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="ashishwankhhade"> </p>
 <p>
