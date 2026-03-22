@@ -1,12 +1,6 @@
 <div align="center">
 
-```
-> initializing portfolio.exe_
-```
-
-# Hi \ud83d\udc4b, I'm Ashish Wankhade
-
-### \u2699\ufe0f Backend \u00b7 \ud83c\udf10 Full-Stack \u00b7 \u2601\ufe0f Cloud & DevOps \u00b7 \ud83e\udd16 AI Integration
+<img src="https://raw.githubusercontent.com/ashishwankhade/ashishwankhade/main/banner.svg" width="100%" alt="Ashish Wankhade Banner"/>
 
 [![Backend](https://img.shields.io/badge/Backend_Engineer-7c6af7?style=for-the-badge&logoColor=white)](https://github.com/ashishwankhade)
 [![Cloud](https://img.shields.io/badge/Cloud_%26_DevOps-4fc3f7?style=for-the-badge&logoColor=white)](https://github.com/ashishwankhade)
@@ -17,18 +11,17 @@
 
 ---
 
-## \ud83d\udc68\u200d\ud83d\udcbb About Me
+## 👨‍💻 About Me
 
-- \ud83c\udf93 Final-year B.Tech CSE student at **G.H. Raisoni University**
-- \u2699\ufe0f Building **production systems** \u2014 not just running on localhost
-- \u2601\ufe0f Deploying on **AWS EC2, RDS, Docker, Nginx** with CI/CD pipelines
-- \ud83e\udd16 Integrated **Google Gemini 2.5 Flash** into a live civic tech platform
-- \ud83e\udde9 Solved **80+ DSA problems** \u2014 Arrays, Trees, Graphs, Dynamic Programming
-- \ud83c\udfaf Open to **Backend, Full-Stack, Cloud & DevOps** roles
+- ⚙️ Building **production systems** — not just running on localhost
+- ☁️ Deploying on **AWS EC2, RDS, Docker, Nginx** with CI/CD pipelines
+- 🤖 Integrated **Google Gemini 2.5 Flash** into a live civic tech platform
+- 🧩 Solved **80+ DSA problems** — Arrays, Trees, Graphs, Dynamic Programming
+- 🎯 Open to **Backend, Full-Stack, Cloud & DevOps** roles
 
 ---
 
-## \ud83d\udee0 Tech Stack
+## 🛠 Tech Stack
 
 **Backend**
 
@@ -73,11 +66,11 @@
 
 ---
 
-## \ud83d\ude80 Featured Projects
+## 🚀 Featured Projects
 
-### \ud83c\udfdb\ufe0f [Lokarya \u2014 Gamified Civic Engagement Platform](https://github.com/ashishwankhade/Lokarya-A-Gamified-Civic-Engagement-Platform)
+### 🏛️ [Lokarya — Gamified Civic Engagement Platform](https://github.com/ashishwankhade/Lokarya-A-Gamified-Civic-Engagement-Platform)
 
-> Full-stack civic tech platform \u00b7 React \u00b7 Node.js \u00b7 MongoDB \u00b7 FastAPI \u00b7 Google Gemini 2.5 Flash
+> Full-stack civic tech platform · React · Node.js · MongoDB · FastAPI · Google Gemini 2.5 Flash
 
 - 9-step complaint pipeline with GPS-based Haversine deduplication and automated SLA escalation
 - Multi-role RBAC across 5 user types with JWT dual-token auth and Google OAuth 2.0
@@ -90,18 +83,27 @@
 
 ---
 
-## \ud83d\udcca At a Glance
+## 📊 At a Glance
 
 <div align="center">
 
-| \ud83d\ude80 Production Projects | \ud83e\udde9 DSA Problems Solved | \ud83d\udee0 Technologies | \ud83c\udfaf Status |
+| 🚀 Production Projects | 🧩 DSA Problems Solved | 🛠 Technologies | 🎯 Status |
 |:---:|:---:|:---:|:---:|
-| 2 | 80+ | 15+ | Open to Hire |
+| 1 | 80+ | 15+ | Open to Hire |
 
 </div>
 
 ---
 
-## \ud83e\udd1d Connect With Me
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishwankhade01)
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wankhadeashish1951@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishwankhade)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishwankhade&label=Profile+Views&color=7c6af7&style=flat" alt="profile views" />
+  <p><sub>Built with ❤️ · Open to Backend, Full-Stack, Cloud & DevOps roles</sub></p>
+</div>
